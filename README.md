@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-**samriddhi11s/samriddhi11s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![@samriddhix1102's Holopin board](https://holopin.io/api/user/board?user=samriddhix1102)](https://holopin.io/@samriddhix1102)
 
 Here are some ideas to get you started:
 
